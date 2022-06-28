@@ -19,3 +19,4 @@
 </div><br/>
 Apaixonado por tecnologia e programação!👨‍💻<br>
 Sempre em busca de novos conhecimentos!👨‍🎓<br>
+![snake gif](https://github.com/EduardoNogueiradev/EduardoNogueiradec/blob/output/github-contribution-grid-snake.svg)
