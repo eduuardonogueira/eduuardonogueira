@@ -4,7 +4,7 @@
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduuardonogueira)
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://eduardonogueira.dev.br)
 
-![Eduardo Nogueira's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduuardonogueirav&show_icons=true&theme=radical)
+![Eduardo Nogueira's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduuardonogueira&show_icons=true&theme=radical)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduuardonogueira&layout=compact)](https://github.com/eduuardonogueira/github-readme-stats)
 
