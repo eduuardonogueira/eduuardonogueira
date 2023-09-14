@@ -1,12 +1,12 @@
 ### Olá! eu sou Eduardo Nogueira👋
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/eduu4rdo_?igshid=YmMyMTA2M2Y)
-[![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardonogueirati)
+[![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduuardonogueira)
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://eduardonogueira.dev.br)
 
-![Eduardo Nogueira's GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardoNogueiradev&show_icons=true&theme=radical)
+![Eduardo Nogueira's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduuardonogueirav&show_icons=true&theme=radical)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoNogueiradev&layout=compact)](https://github.com/EduardoNogueiradev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduuardonogueira&layout=compact)](https://github.com/eduuardonogueira/github-readme-stats)
 
 ## Tecnologias que uso no meu dia
 
@@ -27,4 +27,4 @@ Apaixonado por tecnologia e programação!👨‍💻<br>
 Sempre em busca de novos conhecimentos!👨‍🎓<br>
 
 
-![snake gif](https://github.com/EduardoNogueiradev/EduardoNogueiradev/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/eduuardonogueira/eduuardonogueira/blob/output/github-contribution-grid-snake.svg)
